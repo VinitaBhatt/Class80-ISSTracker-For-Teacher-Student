@@ -33,7 +33,7 @@ export default class MeteorScreen extends Component{
             )
         }else{
 
-            var meteor_arr = Object.keys(this.state.meteors).map(meteor_data=>{
+            var meteor_arr = Object.keys(this.state.meteors).map(meteor_date=>{
                 return this.state.meteors[meteor_date]
             })
 
