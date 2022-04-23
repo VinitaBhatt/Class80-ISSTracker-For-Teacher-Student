@@ -102,7 +102,7 @@ const styles = StyleSheet.create({
         flex:1,
         resizeMode:"cover"
     },
-    maoContainer:{
+    mapContainer:{
         flex:0.6
     },
     map:{
