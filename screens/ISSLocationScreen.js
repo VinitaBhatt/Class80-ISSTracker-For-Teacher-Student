@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {View,Text,StyleSheet,ImageBackground,StatusBar,SafeAreaView,Alert,Image} from 'react-native';
+import {View,Text,StyleSheet,ImageBackground,StatusBar,SafeAreaView,Alert,Image,Platform} from 'react-native';
 import MapView,{Marker} from 'react-native-maps';
 import axios from 'axios';
 
